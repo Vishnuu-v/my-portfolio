@@ -18,7 +18,7 @@ export default function Intro() {
       </div>
 
       <p className="text-[#C0C4CE] text-lg sm:text-xl text-center">
-        Hi there! I'm <span className="text-[#E3646E]">Vishnu V</span>, and I bring ideas to life as a
+        Hi there! I&apos;m <span className="text-[#E3646E]">Vishnu V</span>, and I bring ideas to life as a
       </p>
 
       <h1 className="text-[#E2E4E9] text-3xl sm:text-4xl md:text-5xl text-center font-bold">
