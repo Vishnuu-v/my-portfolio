@@ -49,7 +49,7 @@ interface ServiceProps {
 
 const ServiceCard = ({ icon: Icon, color, title, description }: ServiceProps) => {
   return (
-    <div className="bg-[#292C34] rounded-2xl shadow-lg p-6 w-full sm:w-80 text-center">
+    <div className="bg-[#292C34] rounded-2xl shadow-lg p-6 w-full sm:w-80 text-center lg:mb-20">
       <div className="text-4xl mb-4">
         <Icon style={{ color }} />
       </div>

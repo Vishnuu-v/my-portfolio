@@ -4,7 +4,7 @@ import { FaChevronDown } from "react-icons/fa";
 
 export default function Intro() {
   return (
-    <div className="bg-intro-bg bg-cover mt-14 w-full flex flex-col items-center justify-center text-xl gap-4 sm:gap-6 relative pb-12 sm:pb-16 px-4">
+    <div className="bg-intro-bg bg-cover mt-14 w-full flex flex-col items-center text-xl gap-4 sm:gap-6 relative pb-12 sm:pb-16 px-4">
 
       <div className="flex items-center mb-4">
         <Image
@@ -12,7 +12,7 @@ export default function Intro() {
           alt="Developer image"
           width={80}
           height={80}
-          className="rounded-full border-2 border-red-500 bg-yellow-200"
+          className="rounded-full border-2 border-orange-500 bg-yellow-200"
           priority
         />
       </div>

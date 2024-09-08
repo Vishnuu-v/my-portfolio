@@ -39,7 +39,7 @@ const TechIcons = () => {
           className="bg-[#1E1E1E] rounded-2xl flex items-center gap-2 px-4 py-2"
           style={{ color: skill.color }}
         >
-          <div className="text-3xl">
+          <div className='text-3xl'>
             {skill.icon}
           </div>
           <p className="text-white text-center text-sm md:text-base">{skill.name}</p>
